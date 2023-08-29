@@ -1,1 +1,1 @@
-This is My Vigrant Directory
+My vagrant directory
